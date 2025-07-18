@@ -7,6 +7,7 @@
   - [LLM Leaderboard](https://artificialanalysis.ai/leaderboards/models)
   - [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard)
   - [a16z GenAI Top 100 Apps](https://a16z.com/100-gen-ai-apps-4/)
+  - [智能助手榜单](https://www.producthunt.com/)
   - [Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
   - [SWE-bench](https://www.swebench.com/) 
 - 🌱 I’m currently learning ...
