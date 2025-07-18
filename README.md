@@ -1,4 +1,5 @@
 <h2 align="center">👋 Hello! 佳Jia Here.</h2>
+
 - 🔍 I am currently reading...
   - [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)
   - [nomic-embed-text](https://ollama.com/search?c=embedding)
