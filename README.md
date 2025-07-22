@@ -12,6 +12,7 @@
 - 🔭 I’m currently working on ...
   - Find full-time JOB in China or Singapore!
 - 🧐I'm reloading...
+  - [Hugging Face](https://huggingface.co/models)
   - [Arena Snapsho](https://lmarena.ai/leaderboard)
   - [LLM Leaderboard](https://artificialanalysis.ai/leaderboards/models)
   - [Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard)
