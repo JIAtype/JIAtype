@@ -1,6 +1,7 @@
 <h2 align="center">👋 Hello! 佳Jia Here.</h2>
 
 - 🔍 I am currently reading...
+  - [AI Model Evaluations](https://artificialanalysis.ai/evaluations)
   - [Qwen3-Coder: Agentic Coding in the World](https://github.com/QwenLM/Qwen3-Coder)
   - [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)
   - [nomic-embed-text](https://ollama.com/search?c=embedding)
