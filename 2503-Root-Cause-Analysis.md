@@ -1,0 +1,1 @@
+Developed an AI-driven approach for production abnormality cause analysis, employing data analysis, visualization, and machine learning to identify the root causes of non-conformance in manufacturing processes.

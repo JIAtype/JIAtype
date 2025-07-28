@@ -1,3 +1,6 @@
+Leveraged the Gemini API to develop an AI-powered workflow for converting industrial videos into standardized operating procedure (SOP) documents. This solution automates both image and text generation and supports multi-language translation.
+
+
 # AI-Powered Working Instruction Generation for Industrial Manufacturing
 Turning Videos into Work Instructions -- Standard Operating Procedures (SOPs)
 

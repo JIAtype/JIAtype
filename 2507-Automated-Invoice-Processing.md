@@ -1,3 +1,5 @@
+Designed and implemented a fully automated Invoice Processing workflow using Dify, leveraging open-source large language models to extract key information and populate a structured database.
+
 # AI Agent for Automated Invoice Processing
 
 Fully-Automated Invoice Processing using Dify and LLMs

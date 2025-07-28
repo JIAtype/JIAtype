@@ -1,0 +1,1 @@
+Implemented an automated, real-time defect detection system using computer vision techniques to identify and classify surface defects on components.

@@ -1,0 +1,1 @@
+Customized a YOLO-based model to create a worker safety detection system capable of real-time human behavior analysis and early warning of safety incidents.
