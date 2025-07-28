@@ -1,6 +1,8 @@
 <h2 align="center">👋 Hello! 佳Jia Here.</h2>
-
+- 🔭 I’m currently working on ...
+  - Find full-time JOB in China or Singapore!
 - 🔍 I am currently reading...
+  - [WAIC世界人工智能大会](https://www.worldaic.com.cn/)
   - [AI Model Evaluations](https://artificialanalysis.ai/evaluations)
   - [Qwen3-Coder: Agentic Coding in the World](https://github.com/QwenLM/Qwen3-Coder)
   - [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)
@@ -11,9 +13,6 @@
   - [从GFS到GPT，AI Infra的激荡20年](https://www.cnblogs.com/amap_tech/p/17408041.html)
   - [深度解析 Kimi K2：激活参数仅 32B 的国产万亿模型](https://zhuanlan.zhihu.com/p/1928854555782788488)
   - [大模型时代，是 Infra 的春天还是冬天？](https://zhuanlan.zhihu.com/p/656960458)
-- 🔭 I’m currently working on ...
-  - Find full-time JOB in China or Singapore!
-- 🧐I'm reloading...
   - [Hugging Face](https://huggingface.co/models)
   - [Arena Snapsho](https://lmarena.ai/leaderboard)
   - [LLM Leaderboard](https://artificialanalysis.ai/leaderboards/models)
@@ -28,6 +27,9 @@
   - [Caffe](https://zh.wikipedia.org/zh-sg/Caffe)
   - [AI for Leaders](https://github.com/JIAtype/note/blob/main/AI4Leader/AI_for_Leaders.pdf)
 - 📫 How to reach me: [Telegram@JiaC3](https://t.me/JiaC3)
+
+- 好奇待尝试
+  - [weclone](https://github.com/xming521/WeClone/blob/master/README_zh.md)
 
 <table width="100%" align="center">
   <tr>
