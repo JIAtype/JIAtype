@@ -15,6 +15,12 @@ I created an automated workflow using the Gemini AI platform. Here’s how it wo
 •	Finally, a Python script pulls all this together into a ready-to-use, multi-language document template.
 The results were great—we cut down the time needed to create work instructions, and teams across different languages could use the same templates. This made the process faster, more consistent, and freed up our team to focus on higher-value work.
 
+**9. AI-Powered **  
+Factory work instructions used to be made by hand, which meant pausing videos, taking screenshots, writing and translating text—slow and error-prone.  
+I created an AI-driven workflow, powered by the Gemini platform, to analyze production videos, detect important steps, and automatically generate multi-language document templates.  
+The outcome? Document creation was much more efficient, and multi-language support made it easier across different teams.
+
+
 ---
 
 ## 1. Background and Objectives

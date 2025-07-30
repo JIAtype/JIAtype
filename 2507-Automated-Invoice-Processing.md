@@ -11,6 +11,45 @@ To solve this, I built an AI-powered invoice processor. I used a platform called
 Once the AI extracts the data, it sends it straight to our database through an API, completely skipping the need for manual entry. This means our invoice process is now fully automated.
 Since launching this system, we’ve cut down processing time, reduced costs, and boosted our accuracy. Now the finance team can focus on more important work, while AI takes care of the repetitive tasks.
 
+Last but not least, let’s talk about making finance work easier. Our company handles a huge number of invoices, and entering those details by hand—like the invoice number, amount, date, and supplier—used to take a lot of time and often led to mistakes.
+To solve this, I built an AI-powered invoice processor. I used a platform called Dify along with advanced language models (LLMs) to automatically read invoices, no matter what format they come in, and pull out all the important information.
+Once the AI extracts the data, it sends it straight to our database through an API, completely skipping the need for manual entry. This means our invoice process is now fully automated.
+Since launching this system, we’ve cut down processing time, reduced costs, and boosted our accuracy. Now the finance team can focus on more important work, while AI takes care of the repetitive tasks.
+
+AI Agent: Fully-Automated-Invoice-Processing
+Our company deals with tons of invoices, and previously, extracting key data like invoice number, amount, vendor, etc., was done by hand—a slow and error-prone process.  
+I designed and built an AI-powered solution using Dify, combined with open-source LLMs, to parse different invoice formats and extract all the necessary data. The info is then written straight to the database automatically.  
+After launch, invoice processing became fully automated, costs went down, and accuracy improved noticeably.
+
+Last but not least, the finance helper:
+
+Situation: Manual invoice entry was a time-consuming
+So we Create an AI-powered invoice processor
+
+I Built an automated workflow with Dify
+Integrated LLMs for information extraction
+Automatically identify key information such as invoice number, amount, date, supplier, etc.
+then return this data directly to the database by API
+
+
+
+**10. AI Agent: Fully-Automated-Invoice-Processing**  
+Our company deals with tons of invoices, and previously, extracting key data like invoice number, amount, vendor, etc., was done by hand—a slow and error-prone process.  
+I designed and built an AI-powered solution using Dify, combined with open-source LLMs, to parse different invoice formats and extract all the necessary data. The info is then written straight to the database automatically.  
+After launch, invoice processing became fully automated, costs went down, and accuracy improved noticeably.
+
+Last but not least, the finance helper:
+
+Situation: Manual invoice entry was a time-consuming
+So we Create an AI-powered invoice processor
+
+I Built an automated workflow with Dify
+Integrated LLMs for information extraction
+Automatically identify key information such as invoice number, amount, date, supplier, etc.
+then return this data directly to the database by API
+
+Reduced processing time
+
 ---
 
 ### 1. Background and Objectives
