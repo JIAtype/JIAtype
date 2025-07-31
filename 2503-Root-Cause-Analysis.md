@@ -13,3 +13,11 @@ So we use machine learning to find the root causes
 I cleaned and sorted the collected data, performed EDA, and gave some visual charts to show the data characteristics. Then I used decision trees and random forests to analyze parameters to find the 5 most important features. 
 
 After these I gave conclusions and reports.
+
+根因分析
+
+# 对应领域
+- 数据分析
+- ML
+- 时间序列分析
+- 数据平衡
