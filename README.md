@@ -1,6 +1,8 @@
 <h2 align="center">👋 Hello! 佳Jia Here.</h2>
+
 - 🔭 I’m currently working on ...
   - Find full-time JOB in China or Singapore!
+
 - 🔍 I am currently reading...
   - [WAIC世界人工智能大会](https://www.worldaic.com.cn/)
   - [AI Model Evaluations](https://artificialanalysis.ai/evaluations)
@@ -22,10 +24,12 @@
   - [智能助手榜单](https://www.producthunt.com/)
   - [Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
   - [SWE-bench](https://www.swebench.com/) 
+
 - 🌱 I’m currently learning ...
   - [供应链管理 (乔普拉) (Z-Library).pdf](https://github.com/JIAtype/note/blob/main/%E4%BE%9B%E5%BA%94%E9%93%BE%E7%AE%A1%E7%90%86%EF%BC%88%E4%B9%94%E6%99%AE%E6%8B%89%EF%BC%89/0%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1.md)
   - [Caffe](https://zh.wikipedia.org/zh-sg/Caffe)
   - [AI for Leaders](https://github.com/JIAtype/note/blob/main/AI4Leader/AI_for_Leaders.pdf)
+  
 - 📫 How to reach me: [Telegram@JiaC3](https://t.me/JiaC3)
 
 - 好奇待尝试
