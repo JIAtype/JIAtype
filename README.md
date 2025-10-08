@@ -1,9 +1,13 @@
 <h2 align="center">👋 Hello! 佳Jia Here.</h2>
 
+- 🏠 Personal Webpage
+  - [ChenJia陈佳](https://jiatype.github.io/)
+
 - 🔭 I’m currently working on ...
   - Find full-time JOB in China or Singapore!
 
 - 🔍 I am currently reading...
+  - [How People Use ChatGPT](https://www.nber.org/system/files/working_papers/w34255/w34255.pdf)  
   - [WAIC世界人工智能大会](https://www.worldaic.com.cn/)
   - [AI Model Evaluations](https://artificialanalysis.ai/evaluations)
   - [Qwen3-Coder: Agentic Coding in the World](https://github.com/QwenLM/Qwen3-Coder)
